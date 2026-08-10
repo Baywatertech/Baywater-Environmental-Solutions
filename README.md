@@ -40,10 +40,12 @@ We provide end-to-end environmental consulting, clinical proof-of-concept valida
 
 Our proprietary methodologies, including the **ZLD-8 Technology Transfer Program**, are backed by third-party certified laboratory test results across demanding environmental applications.
 
-* 📄 **Technology Overview:** [ZLD-8 Technology Transfer Program Presentation (PDF)]([letter new arrangment En.pdf](https://github.com/user-attachments/files/30909335/letter.new.arrangment.En.pdf))
+* 📄 **Technology Overview:** [ZLD-8 Technology Transfer Program Presentation (PDF)]([[Presentation ZLD-8 Technology Transfer Program.pdf](https://github.com/user-attachments/files/30909556/Presentation.ZLD-8.Technology.Transfer.Program.pdf)](https://github.com/user-attachments/files/30909335/letter.new.arrangment.En.pdf))
 * <img width="3508" height="4961" alt="broshure sales" src="https://github.com/user-attachments/assets/7f218730-461a-4065-a6ac-722fecfb9672" />
 
-* 📊 **Certified Lab Records:** [Lab History Portfolio (PDF)]([Lab history.pdf](https://github.com/user-attachments/files/30909340/Lab.history.pdf))
+* 📊 **Certified Lab Records:** [Lab History Portfolio (PDF)]([Lab history.pdf]([Lab history (2).pdf](https://github.com/user-attachments/files/30909577/Lab.history.2.pdf)))
+* <img width="2481" height="3507" alt="Tests_Leachate_Oumazza_YK_LABELMA_before_post_treatment" src="https://github.com/user-attachments/assets/56088bea-caaa-4e84-96de-52f46680e451" />
+
 * 🧪 **Featured Case Study:** *Oum Azza Landfill Raw Leachate Remediation (LABELMA / Lydec Certified Analysis)* — Demonstration of $>99\%$ COD reduction without chlorinated oxidation.
 
 ---
