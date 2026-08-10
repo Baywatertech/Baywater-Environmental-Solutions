@@ -81,10 +81,10 @@ Our proprietary methodologies, including the **ZLD-8 Technology Transfer Program
 
 ## 🎥 Video Demonstrations & Field Trials
 
-* 🎥 **Engineering Station Process Overview:** [Watch on YouTube]([(https://www.youtube.com/watch?v=ucFmfD7z7Xc)])
-* 🎥 **Quick View — Leachate Treatment:** [Watch on YouTube]([(https://www.youtube.com/watch?v=jAjNq2qa-0U)])
-* 🎥 **Flexible Mobile Treatment Unit:** [Watch on YouTube]([(https://www.youtube.com/watch?v=DZ-1ciZ-VIY&t=37s)])
-* 🎥 **Live On-Site Demonstrations (Safi, Morocco):** [Watch Demo 1]([(https://www.youtube.com/watch?v=DKstvas_NZE&t=202s)]) | [Watch Demo 2]([(https://www.youtube.com/watch?v=y5SJT9clyKA&t=2s)])
+* 🎥 **Engineering Station Process Overview:** [Watch on YouTube](https://www.youtube.com/watch?v=ucFmfD7z7Xc)
+* 🎥 **Quick View — Leachate Treatment:** [Watch on YouTube](https://www.youtube.com/watch?v=jAjNq2qa-0U)
+* 🎥 **Flexible Mobile Treatment Unit:** [Watch on YouTube](https://www.youtube.com/watch?v=DZ-1ciZ-VIY&t=37s)
+* 🎥 **Live On-Site Demonstrations (Safi, Morocco):** [Watch Demo 1](https://www.youtube.com/watch?v=DKstvas_NZE&t=202s) | [Watch Demo 2](https://www.youtube.com/watch?v=y5SJT9clyKA&t=2s)
 
 ---
 
