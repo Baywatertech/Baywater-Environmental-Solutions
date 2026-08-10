@@ -40,7 +40,7 @@ We provide end-to-end environmental consulting, clinical proof-of-concept valida
 
 Our proprietary methodologies, including the **ZLD-8 Technology Transfer Program**, are backed by third-party certified laboratory test results across demanding environmental applications.
 
-* 📄 **Technology Overview:** [ZLD-8 Technology Transfer Program Presentation (PDF)]([[Presentation ZLD-8 Technology Transfer Program.pdf](https://github.com/user-attachments/files/30909556/Presentation.ZLD-8.Technology.Transfer.Program.pdf)](https://github.com/user-attachments/files/30909335/letter.new.arrangment.En.pdf))
+* 📄 **Technology Overview:** [ZLD-8 Technology Transfer Program Presentation (PDF)]([[Presentation ZLD-8 Technology Transfer Program.pdf](https://github.com/user-attachments/files/30909556/Presentation.ZLD-8.Technology.Transfer.Program.pdf)]
 * <img width="3508" height="4961" alt="broshure sales" src="https://github.com/user-attachments/assets/7f218730-461a-4065-a6ac-722fecfb9672" />
 
 * 📊 **Certified Lab Records:** [Lab History Portfolio (PDF)]([Lab history.pdf]([Lab history (2).pdf](https://github.com/user-attachments/files/30909577/Lab.history.2.pdf)))
